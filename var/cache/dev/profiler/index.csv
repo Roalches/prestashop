@@ -1,0 +1,3 @@
+a97159,::1,GET,http://localhost:8080/prestashop/admin680ywwcwx/index.php/module/addons-store?_token=lPFKwcTWCCFDCC5lgPrO7A53uLsvib25_-kxmAuG42o,1536075428,,200
+27123d,::1,GET,http://localhost:8080/prestashop/admin680ywwcwx/index.php/module/manage?_token=lPFKwcTWCCFDCC5lgPrO7A53uLsvib25_-kxmAuG42o,1536075437,,200
+8d17bd,::1,GET,http://localhost:8080/prestashop/admin680ywwcwx/index.php/module/notifications/count?_token=lPFKwcTWCCFDCC5lgPrO7A53uLsvib25_-kxmAuG42o,1536075442,,200
